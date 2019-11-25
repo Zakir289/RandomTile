@@ -1,0 +1,8 @@
+.App-header{
+    display: flex;
+    height: 50px;
+    padding: 20px;
+    background: skyblue;
+    align-items: center;
+    justify-content: space-between;
+}
